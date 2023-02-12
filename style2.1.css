@@ -1,0 +1,274 @@
+#container {
+    width: 575px;
+    height: 385px;
+    
+    background: #1B244A;}
+    #p1{
+        position: absolute;
+        width: 149px;
+        height: 36px;
+        left: 85px;
+        top: 48px;
+        font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+
+/* identical to box height, or 90% */
+text-align: center;
+
+color: #EEEEEE;
+    }
+    #p2{
+        position: absolute;
+width: 149px;
+height: 36px;
+left: 340px;
+top: 48px;
+
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+
+/* identical to box height, or 90% */
+text-align: center;
+
+color: #EEEEEE;
+
+
+
+    }
+    #scr1{
+        position: absolute;
+width: 155px;
+height: 120px;
+left: 82px;
+top: 135px;
+
+background: #080001;
+border-radius: 5px;
+    }
+    #scr2{
+        position: absolute;
+width: 155px;
+height: 120px;
+left: 337px;
+top: 135px;
+
+background: #080001;
+border-radius: 5px;
+    }
+    #num1{
+        position: relative;
+        width: 117px;
+        height: 120px;
+        left: 30px;
+        top: -93px;
+        font-family: 'Cursed Timer ULiL';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 90px;
+        line-height: 127px;
+        text-align: center;
+        color: #F94F6D;
+    }
+    #num2{
+        position: absolute;
+width: 117px;
+height: 120px;
+left: 30px;
+top: -93px;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+
+/* or 141% */
+text-align: center;
+
+color: #F94F6D;
+    }
+    
+    #home1{
+        box-sizing: border-box;
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 82px;
+top: 271px;
+background-color: #1B244A;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 28px;
+
+/* or 155% */
+text-align: center;
+
+color: #9AABD8;
+
+
+
+    }
+    #home2{
+        box-sizing: border-box;
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 136px;
+top: 271px;
+background-color: #1B244A;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 28px;
+
+/* or 155% */
+text-align: center;
+
+color: #9AABD8;
+
+
+
+    }
+    #home3{
+        box-sizing: border-box;
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 192px;
+top: 271px;
+background-color: #1B244A;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 28px;
+
+/* or 155% */
+text-align: center;
+
+color: #9AABD8;
+
+
+
+    }
+    #guest1{
+        box-sizing: border-box;
+
+        position: absolute;
+        width: 45px;
+        height: 45px;
+        left: 337px;
+        top: 271px;
+        background-color: #1B244A;
+        border: 2px solid #9AABD8;
+        border-radius: 5px;
+        
+        
+        font-family: 'Cursed Timer ULiL';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 27px;
+        line-height: 28px;
+        
+        /* or 155% */
+        text-align: center;
+        
+        color: #9AABD8;
+
+    }
+    #guest2{
+        box-sizing: border-box;
+
+        position: absolute;
+        width: 45px;
+        height: 45px;
+        left: 391px;
+        top: 271px;
+        background-color: #1B244A;
+        border: 2px solid #9AABD8;
+        border-radius: 5px;
+        
+        
+        font-family: 'Cursed Timer ULiL';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 27px;
+        line-height: 28px;
+        
+        /* or 155% */
+        text-align: center;
+        
+        color: #9AABD8;
+
+    }
+    #guest3{
+        box-sizing: border-box;
+
+        position: absolute;
+        width: 45px;
+        height: 45px;
+        left: 447px;
+        top: 271px;
+        background-color: #1B244A;
+        border: 2px solid #9AABD8;
+        border-radius: 5px;
+        
+        
+        font-family: 'Cursed Timer ULiL';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 27px;
+        line-height: 28px;
+        
+        /* or 155% */
+        text-align: center;
+        
+        color: #9AABD8;
+
+    }
+    #rest{
+        position: absolute;
+        width: 85px;
+        height: 52px;
+        left: 25px;
+        top: 25px;
+        background-color: #1B244A;
+        border: 2px solid #9AABD8;
+        border-radius: 5px;
+        
+        
+        font-family: 'Cursed Timer ULiL';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 27px;
+        line-height: 28px;
+        
+        /* or 155% */
+        text-align: center;
+        
+        color: #9AABD8;
+    }
